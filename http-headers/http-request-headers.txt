@@ -139,3 +139,4 @@ Via
 Warning
 WWW-Authenticate
 Xref
+networkx>=2.6 # not directly required, pinned by Snyk to avoid a vulnerability
