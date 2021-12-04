@@ -78,3 +78,6 @@ X-Server
 X-Server-IP
 X-True-Client
 X-True-Client-IP
+jinja2>=2.11.3 # not directly required, pinned by Snyk to avoid a vulnerability
+lxml>=4.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
