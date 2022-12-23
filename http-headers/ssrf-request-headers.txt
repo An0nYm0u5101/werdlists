@@ -78,3 +78,4 @@ X-Server
 X-Server-IP
 X-True-Client
 X-True-Client-IP
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
